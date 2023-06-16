@@ -651,6 +651,10 @@ font-size: .8rem;
     .owl-carousel-brands .item img{
         height: 12rem;
     }
+     .ethnic .owl-carousel .item img{ 
+        height: 26rem;
+        
+    }
 }
 
 @media (min-width: 700px) and (max-width: 860px){
